@@ -1,0 +1,75 @@
+/*styles for Mobile layout*/
+/*style for fluid image*/
+img {
+    max-width: 100%;
+    }
+    
+body{
+    background-color:thistle;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#AppsList{
+    background-color:thistle;
+    width:auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left;
+}
+header{
+    width: 80%;
+    text-align:center;
+    margin-top: 0.2em;
+    margin-right:auto;
+    margin-left: auto;
+    border-radius: 0.5em;
+    box-shadow:grey 12px 12px ;
+
+}
+#Aboutme{
+    background-color:skyblue;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#GamesList{
+    background-color:sandybrown;
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+#MovieList{
+    background-color: cadetblue;
+    width:auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+nav{
+    background-color: papayawhip;
+    margin-top: 25px;
+    font-size: 1.25em;
+    text-align: center;
+    border-radius: 12px;
+    
+}
+nav ul{
+    padding: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+nav li{
+    background-color: yellowgreen;
+    list-style-type: none;
+    border-radius: 2em;
+    margin: 0.4em;
+    padding: 00.4em;
+}
+#homecontainer{
+    background-color: snow;
+    font-size: 50px;
+}
